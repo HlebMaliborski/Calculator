@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="result" type="id"/>
+    <item name="input_text" type="id"/>
+    <item name="btn_ac" type="id"/>
+    <item name="btn_delete" type="id"/>
+    <item name="btn_separate" type="id"/>
+    <item name="btn_multiply" type="id"/>
+
+    <item name="btn_7" type="id"/>
+    <item name="btn_8" type="id"/>
+    <item name="btn_9" type="id"/>
+    <item name="btn_menus" type="id"/>
+
+    <item name="btn_4" type="id"/>
+    <item name="btn_5" type="id"/>
+    <item name="btn_6" type="id"/>
+    <item name="btn_plus" type="id"/>
+
+    <item name="btn_1" type="id"/>
+    <item name="btn_percent" type="id"/>
+
+    <item name="btn_2" type="id"/>
+    <item name="btn_0" type="id"/>
+
+    <item name="btn_3" type="id"/>
+    <item name="btn_point" type="id"/>
+
+    <item name="btn_equally" type="id"/>
+</resources>

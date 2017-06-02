@@ -26,4 +26,18 @@
         <item name="android:layout_weight">1</item>
     </style>
 
+    <style name="button_combine_style_programmatically">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/selectors</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="button_result">
+        <item name="android:background">@drawable/selector_equally</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
 </resources>

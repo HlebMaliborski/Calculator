@@ -64,14 +64,11 @@
 
     <TextView
         android:id="@+id/btn_equally"
-        style="@style/button_style"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_alignParentRight="true"
         android:layout_weight="1"
         android:background="@drawable/selector_equally"
         android:clickable="true"
         android:gravity="center"
-        android:soundEffectsEnabled="false"
         android:text="@string/btn_equally" />
 </LinearLayout>
